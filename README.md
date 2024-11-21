@@ -12,6 +12,6 @@ Ocupamos 3 pipelines de limpieza y handle errors, de esta manera zipeamos los re
 2. Cargar el json si deseamos ver los contrafactuales de un alumno.
 2.1 Podemos buscar los contrafactuales de un alumno, **cabe recalcar que los alumnos de interés son aquellos que se detecten como dropout**.
 
-![Json](./Drop_Stopper_json.jpg)
+![Json](imgs/Drop_stopper_json.jpg)
 
-![Student](./Drop_Stopper_alumno.jpg)
+![Student](imgs/Drop_stopper_alumno.jpg)
